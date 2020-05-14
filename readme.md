@@ -1,7 +1,5 @@
 # Functional Programming in Erlang
 
-[![Build Status](https://travis-ci.org/joelwallis/on-fp-in-erlang.svg?branch=master)](https://travis-ci.org/joelwallis/on-fp-in-erlang)
-
 > **SPOILER ALERT: this repository contains solutions for the FutureLearn's Erlang course exercises!**
 >
 > **If you're one of its students like me, I recommend you to avoid reading solutions of problems and/or homework you haven't completed yourself.**
